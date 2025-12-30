@@ -54,6 +54,6 @@ A detailed **Brand Reputation Management Strategy** created for **Codtech IT Sol
 - Engagement rate   
 
 ### Conclusion  
-This strategy ensures Codtech maintains a **positive, credible, and engaging brand image** by blending proactive communication, feedback management and social transparency.
+This strategy ensures Codtech maintains a **positive, credible and engaging brand image** by blending proactive communication, feedback management and social transparency.
 
 > *“Your brand is what people say about you when you’re not in the room.” – Jeff Bezos*
